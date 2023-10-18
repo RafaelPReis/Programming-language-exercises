@@ -1,4 +1,5 @@
 # Class 1
+## Exercises
 
 - BEE1000: Hellow World
 - BEE1001: Soma de Dois Valores
